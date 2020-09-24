@@ -4,7 +4,7 @@
 
 The model aims to illuminate the spread of infectious diseases in a structured network of agents, and to highlihht the importance of allocating tests in an optimal way. 
 The main specification models a region that consists of k connected, heterogenous sub-regions. 
-Policy tools that can be activated (and adjusted based on various parameter settings) include testing, test-and-trace, hospitalization and various lockdown schemes. The model illuminates the interplay of the k-subregions, with their heterogeneous policy interventions, and their effect on overall disease-spread. Particular focus lies on
+Policy tools that can be activated (and adjusted based on various parameter settings) include testing, test-and-trace, hospitalization and various lockdown schemes. The model investigates the interplay of the k-subregions, with their heterogeneous policy interventions, and their effect on overall disease-spread. Particular focus lies on
 the allocation of tests (coupled with lockdown regimes), and their effect on a) time spent in lockdown and b) health-outcomes (i.e. the number of agents who become infected over the course of a run). The simulation can be visualized.
 
 # Model architecture.
