@@ -11,5 +11,5 @@ multiple sub-regions (called counties). The *Spread_parameter* class is used a) 
 and b) to determine the parameters for the policy-interventions.
 
 # Parameters
-
+![Spread-parameters](https://github.com/phbt/abm-simulation/parameter_description/parameters1.jpg?raw=true)
 
