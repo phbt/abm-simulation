@@ -9,7 +9,7 @@ the allocation of tests (coupled with lockdown regimes), and their effect on a) 
 
 # Model architecture.
 There are two main classes, both are in "abm_region_class". The class *Region* is used to construct the contact-structures within a region, which is constituted of 
-multiple sub-regions (which are called counties). The individual counties are small-world networks (Watts-Strogatz type), and there are different ways to create contacts between the counties. The *Spread_parameter* class is used a) specify the characteristics of the disease to be modeled (cure-time, infectiousness etc), and b) to determine the parameters for the various policy-interventions, like test-and-trace, hospitalization and allocating tests. 
+multiple sub-regions (which are called counties). The individual counties are small-world networks (Watts-Strogatz type), and there are different ways to create contacts between the counties. The *Spread_parameter* class is used a) to specify the characteristics of the disease to be modeled (cure-time, infectiousness etc), and b) to determine the parameters for the various policy-interventions, like test-and-trace, hospitalization and allocating tests. 
 
 # Parameters.
 the parameters for the *Spread_parameter* class:
