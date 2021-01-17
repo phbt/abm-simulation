@@ -1,4 +1,3 @@
-(NOTE: an explanation for each function and class is contained in their respective docstrings) 
 
 # An Agent-Based-Model for infectious diseases
 
